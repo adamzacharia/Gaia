@@ -2,7 +2,7 @@
 
 **Natural Language Interface for Gaia DR3 Data**
 
-Built for the [MIT Gaia DR3 Hackathon](https://gaiadr3hack.mit.edu) (January 29-31, 2026)
+
 
 ---
 
