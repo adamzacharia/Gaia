@@ -8,8 +8,10 @@
 
 ## Demo
 
-<video src="https://github.com/adamzacharia/Gaia/raw/master/Recording%202026-02-08%20165501.mp4" controls="controls" style="max-width: 100%;">
-</video>
+
+https://github.com/user-attachments/assets/120fc6fa-3beb-4a7f-ae51-52c61352f288
+
+
 
 *GaiaChat features a modern interface with feature cards, smart visualizations, and natural language querying of the Gaia stellar catalog.*
 
