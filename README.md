@@ -8,7 +8,8 @@ Built for the [MIT Gaia DR3 Hackathon](https://gaiadr3hack.mit.edu) (January 29-
 
 ## Demo
 
-https://github.com/adamzacharia/Gaia/raw/master/Recording%202026-02-08%20165501.mp4
+<video src="https://github.com/adamzacharia/Gaia/raw/master/Recording%202026-02-08%20165501.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 *GaiaChat features a modern interface with feature cards, smart visualizations, and natural language querying of the Gaia stellar catalog.*
 
